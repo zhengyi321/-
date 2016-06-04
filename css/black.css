@@ -1,0 +1,124 @@
+.head-imgae2{
+    width:auto;
+    height: 5%;
+    position: absolute;
+    z-index: 2;
+    top: 4%;
+    left: 4%;
+}
+.head-imgae3{
+    width:auto;
+    height: 3%;
+    position: absolute;
+    z-index: 2;
+    float: left;
+    top: 9%;
+    left: 4%;
+}
+
+#wxtitle{
+    width: 97%;
+    height: 100%;
+    padding: 2%;
+    margin-top: 10%;
+    background: #FFFFFF;
+
+    float: left;
+    position: relative;
+    z-index: 0;
+}
+.wx-title-input{
+    width: 50%;
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+    background-color:transparent;
+    border:none;
+}
+.wx-title-check{
+    width: 80%;
+    height:100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: #06c003;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+    color: white;
+    font-size: 150%;
+    border:none;
+}
+.wx-item{
+    width: 76%;
+    height:100%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 3%;
+    padding-right: 1%;
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 7%;
+    background: #e7e7e7;
+    border: #757575;
+}
+.wx-item-head{
+    width: 10%;
+    height: auto;
+    color: #7b7b7b;
+    font-size: 110%;
+    font-weight: bold;
+    display: inline;
+}
+.wx-item-input{
+    width: 60%;
+    height: auto;
+    display: inline;
+    background-color:transparent;
+    border:none;
+}
+.wx-item-end{
+    width:5%;
+    height: auto;
+    margin-left: auto;
+    display:inline;
+
+}
+
+.wx-item-head2{
+    width: 15%;
+    height: auto;
+    color: #7b7b7b;
+    font-size: 110%;
+    font-weight: bold;
+    display: inline;
+}
+.wx-item-input2{
+    width: 48%;
+    height: auto;
+    display: inline;
+    background-color:transparent;
+    border:none;
+}
+.wx-item-end2{
+    width:5%;
+    margin-left: auto;
+    height: auto;
+    display:inline;
+
+}
+.result-area{
+    width:100%;
+    height: 10%;
+    text-align: center;
+    margin-top: 10%;
+
+}
+.result-no{
+    text-align: center;
+    size: 30px;
+    color:gray;
+}

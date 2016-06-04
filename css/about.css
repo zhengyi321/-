@@ -1,0 +1,13 @@
+.content{
+    width:100%;
+    height: auto;
+
+}
+.content-word{
+    font-size: 100%;
+    float: left;
+    width: 50%;
+    top: 10%;
+    margin-left: 10%;
+    font-weight: bold;
+}

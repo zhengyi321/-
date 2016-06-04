@@ -1,0 +1,45 @@
+.body-bg-img{
+    width:100%;
+    height:auto;
+    margin-top: 10%;
+    position: absolute;
+    z-index: 0;
+}
+.name{
+    width:auto;
+    height:auto;
+    margin-top: 78.8%;
+    margin-left: 30%;
+    position: absolute;
+    z-index: 1;
+    font-size: 9%;
+}
+.weixin{
+    width:auto;
+    height:auto;
+    margin-top: 86%;
+    margin-left: 33%;
+    font-size: 9%;
+    position: absolute;
+    z-index: 1;
+
+}
+.seller-weixin{
+    width:auto;
+    height:auto;
+    margin-top: 93%;
+    margin-left: 42%;
+    font-size: 9%;
+    position: absolute;
+    z-index: 1;
+
+}
+.team-name{
+    width:auto;
+    height:auto;
+    margin-top: 100.5%;
+    margin-left: 39%;
+    font-size: 9%;
+    position: absolute;
+    z-index: 1;
+}

@@ -1,0 +1,19 @@
+html,form
+body{
+    width: 100%;
+    height:100%;
+    margin: 0;
+    padding: 0;
+    background: #efeef4;
+}
+#head-min{
+    width:100%;
+    height:10%;
+
+}
+.head-imgae1{
+    width: 100%;
+    height:auto;
+    position: relative;
+    z-index: 0;
+}
